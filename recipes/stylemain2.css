@@ -1,0 +1,30 @@
+body{
+    background-color: beige;
+}
+
+
+img {
+    margin: auto;
+    display: block;
+}
+
+
+ul li,
+p,
+h1,
+h2,
+h3  {
+    text-align: center;
+    color: rgb(170, 109, 109);
+    font-family: 'Courier New', Courier, monospace;
+    list-style-type: none;
+}
+
+ol li {
+
+
+    color: rgb(170, 109, 109);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
